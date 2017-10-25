@@ -1,0 +1,19 @@
+
+# Compiled Object files
+*.o
+*.a
+*.so
+*.exe
+*.test
+
+# ide stuff
+.iml
+
+# Directory based 
+.idea/
+.idea/workspace.xml
+
+# mac hidden files
+.DS_Store
+
+
